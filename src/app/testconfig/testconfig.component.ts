@@ -10,6 +10,8 @@ export class TestconfigComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    console.log("cha cogi");
+
   }
 
 }
