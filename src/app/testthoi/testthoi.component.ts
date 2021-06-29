@@ -11,5 +11,8 @@ export class TestthoiComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  commit(){
+    console.log("test ở đay");
 
+  }
 }
