@@ -16,4 +16,8 @@ export class TestthoiComponent implements OnInit {
     console.log("them ti nua");
 
   }
+  submit(){
+    console.log("submit");
+
+  }
 }
