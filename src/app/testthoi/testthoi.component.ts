@@ -13,6 +13,7 @@ export class TestthoiComponent implements OnInit {
   }
   commit(){
     console.log("test ở đay");
+    console.log("them ti nua");
 
   }
 }
